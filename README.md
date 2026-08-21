@@ -14,7 +14,7 @@ https://wantage-estimator-api.onrender.com
 
 ### Frontend
 
-https://wantage-estimator-api1.onrender.com/login
+https://wantage-estimator-api1.onrender.com
 
 ---
 
